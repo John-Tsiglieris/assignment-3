@@ -44,11 +44,44 @@ header, footer {
 
 /* WRITE YOUR CODE BELOW HERE */
 
+
 nav li {
   background-color: gray;
   border: 1px solid blue;
-  padding: 0.5rem 1rem;
+  padding: 1.5rem 1rem;
+  margin-bottom: 2rem;
   maring-bottom: 0.25rem;
-  list-style: none;
+   list-style: none;
   text-align:center;
 }
+
+header {
+  font:
+    normal normal bold normal 1.4rem/1.5 Times-new-roman, serif;
+  
+  text-align:center;
+}
+
+h2 {
+  font:
+    normal normal bold normal 1.6rem/1.5 Times-new-roman, serif;
+  
+  text-align:center;
+}
+
+p {
+  font-size: 1rem;
+}
+
+html {
+  padding: 3rem;
+}
+
+body {
+  font:
+    normal normal normal normal 10px/1.5 Helvetica,
+    Arial,
+    sans-serif;
+}
+
+
