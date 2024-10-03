@@ -58,14 +58,14 @@ nav li {
 header {
   font:
     normal normal bold normal 1.4rem/1.5 Times-new-roman, serif;
-  
+  letter-spacing: 3.5px;
   text-align:center;
 }
 
 h2 {
   font:
     normal normal bold normal 1.6rem/1.5 Times-new-roman, serif;
-  
+  letter-spacing: 2px;
   text-align:center;
 }
 
@@ -79,9 +79,13 @@ html {
 
 body {
   font:
-    normal normal normal normal 10px/1.5 Helvetica,
+    normal normal normal normal 10px/2 Helvetica,
     Arial,
     sans-serif;
+}
+
+section h2 + p {
+  text-indent: 2rem;
 }
 
 
