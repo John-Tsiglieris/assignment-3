@@ -43,3 +43,12 @@ header, footer {
 }
 
 /* WRITE YOUR CODE BELOW HERE */
+
+nav li {
+  background-color: gray;
+  border: 1px solid blue;
+  padding: 0.5rem 1rem;
+  maring-bottom: 0.25rem;
+  list-style: none;
+  text-align:center;
+}
