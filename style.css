@@ -64,7 +64,7 @@ header {
 
 h2 {
   font:
-    normal normal bold normal 1.6rem/1.5 Times-new-roman, serif;
+    normal normal bold normal 1.6rem/2 Times-new-roman, serif;
   letter-spacing: 2px;
   text-align:center;
 }
@@ -88,4 +88,10 @@ section h2 + p {
   text-indent: 2rem;
 }
 
+a {
+  color: #a66;
+}
 
+a:hover {
+   text-decoration: none;
+}
