@@ -122,6 +122,7 @@ section a:after {
 
 aside li {
   font-size: 1rem;
+  list-style-type: square
 }
 
 section li {
