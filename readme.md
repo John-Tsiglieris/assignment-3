@@ -1,1 +1,1 @@
-#wip
+#Typesetting - John Tsigliers
